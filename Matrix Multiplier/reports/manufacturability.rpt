@@ -1,0 +1,19 @@
+Design Name: matrix_mult3
+Run Directory: /openlane/designs/ci/matrix_mult3/runs/RUN_2024.03.07_17.49.51
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/ci/matrix_mult3/runs/RUN_2024.03.07_17.49.51/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/ci/matrix_mult3/runs/RUN_2024.03.07_17.49.51/logs/signoff/41-matrix_mult3.lef.lvs.log
+Number of nets: 3480                       |Number of nets: 3480                       
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/ci/matrix_mult3/runs/RUN_2024.03.07_17.49.51/logs/signoff/44-arc.log
+Pin violations: 0
+Net violations: 0

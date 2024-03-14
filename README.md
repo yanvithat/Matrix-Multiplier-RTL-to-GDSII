@@ -10,7 +10,7 @@ This project focuses on designing a 16x16 matrix multiplier, a crucial functiona
 
 ## Design Blocks
 1. **RTL Design**: 
-   - RTL code in Verilog HDL for the 16x16 matrix multiplier.
+   - RTL code in Verilog HDL for the 8-bit 16x16 Matrix Multiplier.
    - Verification of the functionality through simulation.
 
 2. **Synthesis**:
@@ -26,15 +26,18 @@ This project focuses on designing a 16x16 matrix multiplier, a crucial functiona
    - Ensure that the design meets timing and performance requirements.
 
 ## Directory Structure
-- `rtl/`: Contains Verilog HDL files for the matrix multiplier.
-- `synthesis/`: Holds synthesis scripts, reports, and synthesized netlist.
-- `layout/`: Contains layout files including GDS, spice, and .oa files.
-- `docs/`: Documentation related to the design process.
+- `rtl/`: Contains Verilog HDL files for the Matrix Multiplier.
+- `synthesis/`: Holds synthesized netlist and power netlist.
+- `layout/`: Contains layout files including .gds, .spice, .lef and .ext files.
+- `reports/`: Contains manufacturibility report, power and STA reports
+- `metrics/`: Contains metrics.csv file, detailing area, recommended clock frequency, wire lengths etc
 
 ## Design Details
-- **Matrix Multiplier**: RTL code implements a 16x16 matrix multiplier.
-- **Clock Frequency**: 50MHz 
-- **Area**: 50mm sq.
+- **Matrix Multiplier**: RTL code implements a 16x16 Matrix Multiplier.
+- **Clock Frequency**: 90MHz
+- **Die Area**: 51058.57 um^2
+- **Core Area**: 43835.792 um^2
+- **Power Requirement**: 1.8V
 
 
 

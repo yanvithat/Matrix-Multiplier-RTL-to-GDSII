@@ -33,7 +33,7 @@ This project focuses on designing a 16x16 matrix multiplier, a crucial functiona
 
 ## Design Details
 - **Matrix Multiplier**: RTL code implements a 16x16 matrix multiplier.
-- **Clock Frquency**: 50M MHz 
+- **Clock Frequency**: 50MHz 
 - **Area**: 50mm sq.
 
 

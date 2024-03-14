@@ -2,7 +2,7 @@
 
 
 ## Overview
-This project focuses on designing a 16x16 matrix multiplier, a crucial functional block used in various computational tasks such as image processing, signal processing, and neural networks. The multiplier takes two 16x16 matrices as inputs and produces the result of their multiplication.
+This project focuses on designing a 8-bit 16x16 Matrix Multiplier, a crucial functional block used in various computational tasks such as image processing, signal processing, and neural networks. The multiplier takes two 16x16 matrices as inputs and produces the result of their multiplication.
 
 ## Technology and Tools
 - **Technology**: Skywater OpenPDK 130nm

@@ -1,0 +1,11 @@
+{
+    "DESIGN_NAME": "matrix_mult3",
+    "VERILOG_FILES": "dir::src/*.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10.0,
+    "FP_PDN_MULTILAYER": true,
+    "MAX_FANOUT_CONSTRAINT" : 4,
+    "GLB_RESIZER_MAX_CAP_MARGIN" : 5,
+    "FP_CORE_UTIL": 70,
+    "PL_TARGET_DENSITY": 0.6
+}

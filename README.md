@@ -32,7 +32,7 @@ This project focuses on designing a 8-bit 16x16 Matrix Multiplier, a crucial fun
 - `reports/`: Contains manufacturibility report, power and STA reports
 - `metrics/`: Contains metrics.csv file, detailing area, recommended clock frequency, wire lengths etc
 
-## Design Details
+## Design Specifications
 - **Matrix Multiplier**: RTL code implements a 16x16 Matrix Multiplier.
 - **Clock Frequency**: 90MHz
 - **Die Area**: 51058.57 um^2
